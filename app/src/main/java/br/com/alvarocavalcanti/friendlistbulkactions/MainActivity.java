@@ -1,4 +1,4 @@
-package br.com.alvarocavalcanti.facebulk;
+package br.com.alvarocavalcanti.friendlistbulkactions;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

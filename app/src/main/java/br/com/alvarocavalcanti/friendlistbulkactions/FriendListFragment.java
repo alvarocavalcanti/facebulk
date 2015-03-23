@@ -1,4 +1,4 @@
-package br.com.alvarocavalcanti.facebulk;
+package br.com.alvarocavalcanti.friendlistbulkactions;
 
 import android.os.AsyncTask;
 import android.os.Bundle;
